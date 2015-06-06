@@ -5,7 +5,7 @@
 - Which Animal Gave Us SARS? (**Evolutionary Trees**)
 - How Do We Locate Disease-Causing Mutations? (**Combinatorial Pattern Matching**)
 - How Did Yeast Become Such a Good Wine Brewer? (**Clustering Algorithms**)
-- Why Do We Still Not Have an HIV Vaccine? (**Hldden Markov Models**)
+- Why Do We Still Not Have an HIV Vaccine? (**Hidden Markov Models**)
 - Was T. rex Just a Big Chicken? (**Computational Proteomics**)
 - What Genetic Characteristics Do Human Populations Share? (**Principal Components Analysis**)
 
