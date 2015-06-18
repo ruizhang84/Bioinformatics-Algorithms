@@ -63,5 +63,3 @@ if __name__=="__main__":
     #start_time = time.time()
     test.spectrum_graph()
     #print("---running time is %s seconds ---" % (time.time() - start_time))
-
-
